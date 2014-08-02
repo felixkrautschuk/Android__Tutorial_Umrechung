@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Umrechner_KM</string>
+    <string name="textView_hinweis">Hinweis:\n Bitte geben Sie die Kilometer ein,\n die in Meilen umgerechnet werden sollen.</string>
+    <string name="action_clear">Clear</string>
+    <string name="label_einheit_km">Km</string>
+    <string name="label_einheit_meilen">Meilen</string>
+    <string name="berechnen">berechnen</string>
+
+</resources>

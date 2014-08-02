@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+    <item android:id="@+id/action_berechnen"
+        android:title="@string/berechnen"
+        android:orderInCategory="100"
+        android:showAsAction="always" />
+
+    <item android:id="@+id/action_clear"
+        android:title="Clear"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+
+</menu>
